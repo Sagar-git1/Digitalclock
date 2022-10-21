@@ -1,0 +1,15 @@
+@import 'https://fonts.googleapis.com/css?family=Oswald:700';
+body{
+    padding: 50px;
+    
+}
+#digi-clock{
+    background-color: #66ffff;
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Oswald'; 
+    text-align: center;
+    font-size: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
